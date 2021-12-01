@@ -3,6 +3,7 @@
 export("%>%")
 export(YYMMDD_TYPE)
 export(creaCalendario)
+export(leggi_file)
 importFrom(magrittr,"%>%")
 importFrom(rlang,.data)
 importFrom(tibble,tibble)

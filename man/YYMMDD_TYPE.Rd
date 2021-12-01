@@ -7,7 +7,7 @@
 
 Questa e' la specifica dei tipi che viene passata a readr::red_delim per la lettura dei dati giornalieri di temperatura e precipitazione}
 \format{
-An object of class \code{col_spec} of length 2.
+An object of class \code{col_spec} of length 3.
 }
 \usage{
 YYMMDD_TYPE

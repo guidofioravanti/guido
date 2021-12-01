@@ -20,4 +20,6 @@ Imports:
     tidyr,
     glue,
     rlang,
-    readr
+    readr,
+    purrr,
+    utils
